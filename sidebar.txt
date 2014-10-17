@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpa:home|Door43 (mpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpa|d43-mpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpa/archive/master.zip|d43-mpa.zip]]
+
+**Recent Changes**
+{{changes>ns = mpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpa|Ethnologue data]]
+
